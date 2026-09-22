@@ -14,9 +14,6 @@ Firmware images are published on the [Releases](../../releases) page:
 
 Each image is a raw 819,200-byte Akai floppy disk. You can use them directly with Gotek / HxC floppy emulator. Use Greaseweazel to write image to a 3.5" DD floppy disk. Standard USB floppy disk won't write disk with non-standard sector layout.
 
-To load **S950** version, boot from stock OS, insert disk and go to `DISK *02` page and move cursor to `Clear mem and load disk (1)` and press `1`. **S900** loads normally on power-on.
-
-
 ---
 
 ## Key features added vs stock OS (S900 4.0 / S950 1.2b):
@@ -58,7 +55,6 @@ In case you have questions:
 - **Can you add another feature?** — I wish but there is almost no space left. This sentence alone wouldn't fit in the leftover space!
 - **Why the stock features were removed?** — MADLABZ OS has to fit in exactly the same space as the stock firmware. The key objective was to retain the same sample RAM region as stock, so compromises had to be made.
 - **Why S900 has more features than S950?**  — Stock OS for S950 already has much more densely packed code (SCSI, S1000 disk support).
-- **Why S950 doesn't boot from OS disk?** — A bug in stock ROM code prevents it. Future Madlabz OS version will offer binary files you can burn to EPROMs and replace stock OS ROMS.
 
 ---
 
