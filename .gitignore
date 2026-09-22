@@ -1,0 +1,6 @@
+# Local-only release staging. Firmware ships as GitHub Release assets,
+# never committed to the repo.
+/dist/
+
+# Local notes (publishing instructions, scratch) — never committed.
+*.local.md
