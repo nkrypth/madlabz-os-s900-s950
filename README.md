@@ -90,7 +90,7 @@ Madlabz OS S900 version increases significantly objects and the sample count. Th
 | ------------------------- | ---------- | ---------------- | ----------------- | ----------------- |
 | Sample RAM                | 464 Kwords | 464 Kwords       | 464 - 1488 Kwords | 464 - 1488 Kwords |
 | Max samples               | 32         | **48/64/96**     | 99                | 99                |
-| Max objects               | 66         | **98**           | 198               | 1\98              |
+| Max objects               | 66         | **98**           | 198               | 198              |
 | Max keygroups per program | 65         | **72**           | n/a               | n/a               |
 | Max segments              | 200        | 200              | 300               | 300               |
 
