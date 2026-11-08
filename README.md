@@ -69,7 +69,7 @@ You can run an image two ways:
 - **Time Direction moved to  `EDIT SAMPLE *04`** —  to make room for Slices page on `*05`
 - **The MIDI-channel and OUTPUT-voices pages merged** `EDIT PRGM *16 (S950) \ *15 (S900)`.
 - **OMNI set to OFF by default** — you're most welcome! 
-- **ME35T (S950) and ASK90 (S900)** — removed alongside its dedicated pages (`UTILITY`, `DISK`). Use stock OS if you need this functionality. The UTILITY key opens the Madlabz OS info page now
+- **ME35T (S950) and ASK90 (S900)** — removed alongside its dedicated pages (`UTILITY`, `DISK`). Use stock OS if you need this functionality. The UTILITY key opens the MASTER TUNE page now
 - **Memory-full messages unified.** The various "out of space / full" messages are collapsed into one: `Full. Erase something`.
 - **Compressed sample support (S900)** — Dropped OS 4.0 only feature. None of the standard disk libraries use sample compression. Other stock S900/S950 firmware doesn't support sample compression either. 
 - **Velocity crossfade (VX) (S900)** — Another OS 4.0 only feature removed
